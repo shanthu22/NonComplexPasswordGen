@@ -1,7 +1,7 @@
 import random 
 
 def Generator(wordsArray,specialCharArray):
-    print(wordsArray)
+    #print(wordsArray)
 
     randomNumber1 = random.randint(1,len(wordsArray)-1)
     randomNumber2 = random.randint(1,len(wordsArray)-1)
