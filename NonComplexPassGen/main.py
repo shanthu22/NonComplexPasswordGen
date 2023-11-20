@@ -12,4 +12,3 @@ def main():
     #print(words)
     Generator(wordsArray,specialCharArray)
 
-main()
